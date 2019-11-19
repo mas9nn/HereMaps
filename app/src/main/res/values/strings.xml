@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HereMaps</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoibWFzOW4iLCJhIjoiY2p4Zmw5aW5uMDcwbDN6cDM2Z3loaHN0YyJ9.mUXAFMNgRLlmo4wdwEC7XQ</string>
+    <string name="new_location">Here you are</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>

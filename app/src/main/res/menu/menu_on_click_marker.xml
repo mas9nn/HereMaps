@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/from"
+        android:icon="@drawable/ic_arrow_upward_black_24dp"
+        android:title="Отсюда" />
+    <item
+        android:id="@+id/here"
+        android:icon="@drawable/ic_arrow_forward_black_24dp"
+        android:title="Сюда" />
+</menu>
